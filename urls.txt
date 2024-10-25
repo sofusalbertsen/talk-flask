@@ -1,0 +1,16 @@
+https://workstation-0.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-1.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-2.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-3.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-4.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-5.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-6.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-7.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-8.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-9.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-10.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-11.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-12.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-13.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-14.soal.eficode.academy/login?folder=/home/coder/docker-katas
+https://workstation-15.soal.eficode.academy/login?folder=/home/coder/docker-katas
